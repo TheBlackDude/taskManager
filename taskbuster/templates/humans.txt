@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Osman Jalloh -- Software Developer -- +MuDu45
 
 # THANKS
 
-    <name>
+    Thanks to everyone who supported me
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Django
