@@ -4,3 +4,6 @@ __pycache__
 TaskBuster.sublime-workspace
 .coverage
 htmlcov
+.coverage
+htmlcov
+geckodriver.log
