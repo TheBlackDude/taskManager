@@ -9,7 +9,7 @@ from django.utils import formats
 class HomeNewVisitorTest(StaticLiveServerTestCase):
 
     def setUp(self):
-        self.browser = webdriver.Firefox()
+        self.browser = webdriver.Chrome()
         self.browser.implicitly_wait(3)
         activate('en')
 

@@ -18,7 +18,6 @@ from django.utils.translation import ugettext_lazy as _
 
 LANGUAGES = (
     ('en', _('English')),
-    ('fr', _('French')),
     ('ca', _('Catalan')),
 )
 
