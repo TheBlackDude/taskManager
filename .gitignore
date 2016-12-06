@@ -7,3 +7,4 @@ htmlcov
 .coverage
 htmlcov
 geckodriver.log
+taskbuster/fixtures
